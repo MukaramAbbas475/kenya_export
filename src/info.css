@@ -1,0 +1,35 @@
+.main_info{
+    background-color:rgb(41, 37, 37);
+    width:100%;
+    height:50px;
+    color:white;
+    position: sticky;
+    
+}
+@media screen and (max-width: 780px) {
+    .main_info {
+     height: 100px;
+     /* font-size:smaller ; */
+    }
+    .info_number{
+        font-size:20px;
+
+    }
+  }
+  body{
+      /* overflow: hidden; */
+  }
+.info_text{
+    padding-left: 2.5%;
+}
+.main_text{
+    padding-top: 1%;
+}
+.header_icon{
+    padding-left: 12%;
+}
+a{
+    text-decoration:none;
+    color:white;
+    font-size:20px;
+}
