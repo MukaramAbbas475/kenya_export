@@ -64,7 +64,7 @@ const Home = () => {
                   KENEXPORTS LTD. UNIT 27B (door no) Park Avenue Ind. Estate
                   Luton(City) Bedfordshire(County) LU3 3BP(Post Code).
                 </p>
-                <a href="#" class="btn btn-primary section2_card_btn">
+                <a href="" className="btn btn-primary section2_card_btn">
                   Click<span>{" "}</span>
                   {/* <br /> */}
                   Here
