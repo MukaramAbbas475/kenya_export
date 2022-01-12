@@ -243,18 +243,26 @@
   margin-left: 1%;
 }
 .section6_right {
-  height: 500px;
+  height: 100%;
+  border: 1px solid black;
   border-radius: 15px;
   padding-bottom: 10px;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
+
+  
 }
 body{
   overflow-x: hidden;
 }
 .section6_video {
+  /* background: url("./Images/video-thumbnail.jpg"); */
   border-radius: 15px;
-  height: 500px;
-  margin: 0;
-  padding-bottom: 10px;
+  height: 432px;
+  border: 1px solid black;
+  object-fit: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 @media screen and (max-width: 780px) {
   .section6_right  {
