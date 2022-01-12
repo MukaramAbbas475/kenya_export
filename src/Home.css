@@ -261,8 +261,8 @@ body{
   height: 432px;
   border: 1px solid black;
   object-fit: cover;
-  background-size: cover;
-  background-repeat: no-repeat;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
 }
 @media screen and (max-width: 780px) {
   .section6_right  {
